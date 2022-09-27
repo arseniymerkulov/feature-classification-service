@@ -3,6 +3,7 @@
 Service extracts features from images and stores it in feature dataset for classification purposes.
 
 ### Dependencies
+python 3.9
 tensorflow 2.10.0
 tensorflow-hub 0.12.0
 flask 2.2.2
